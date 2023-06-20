@@ -40,11 +40,11 @@ Following searches for pdf file in the domain yahoo.com
 ![image](https://github.com/NAVEENMATHIVANAN/Enumeration/assets/119394582/7d1967aa-d833-47ba-b1ee-5cc0d5db3b4b)
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
-![Uploading 3rd.png…]()
+
 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
-![Uploading image.png…]()
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
